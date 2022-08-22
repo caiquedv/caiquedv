@@ -9,8 +9,6 @@
 
 - Atualmente estou me especializando em React
 
-- Respondo perguntas sobre **JavaScript, HTML, CSS, Bootstrap e React** :star:
-
 - Meus principais projetos estão disponíveis em meu [portfólio](https://caiquedv.github.io/) :mag:
 
 <br>
