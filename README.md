@@ -5,11 +5,11 @@
 
 - Meu nome é Caique, tenho 27 anos e sou desenvolvedor Front-End :boom:
 
-- Estudo programação desde o final de 2021 e estou em busca de colocação no mercado
+- Estudo programação desde dezembro de 2021 e estou em busca de colocação no mercado
 
-- Atualmente estou me especializando em React
+- Atualmente fiz uma pausa no avanço do Front-End e estou me especializando em Banco de Dados e NodeJS
 
-- Meus principais projetos estão disponíveis em meu [portfólio](https://caiquedv.github.io/) :mag:
+- Meus principais projetos estão disponíveis em meu [portfólio](https://caiquedv.github.io/portfolio-reactjs) :mag:
 
 <br>
 
