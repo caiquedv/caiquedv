@@ -3,11 +3,9 @@
   Seja bem vindo ao meu perfil no GitHub!
 </h1>
 
-- Meu nome é Caique, tenho 27 anos e sou desenvolvedor :boom:
+- Meu nome é Caique, tenho 27 anos e sou desenvolvedor de Software :boom:
 
 - Estudo programação desde dezembro de 2021 e estou em busca de colocação no mercado
-
-- Atualmente fiz uma pausa no avanço do Front-End e estou me especializando em Banco de Dados e NodeJS
 
 - Meus principais projetos estão disponíveis em meu [portfólio](https://caiquedv.github.io/portfolio-reactjs) :mag:
 
