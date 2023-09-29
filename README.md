@@ -3,7 +3,7 @@
   Seja bem vindo ao meu perfil no GitHub!
 </h1>
 
-- Meu nome é Caique, tenho 27 anos e sou desenvolvedor Front-End :boom:
+- Meu nome é Caique, tenho 27 anos e sou desenvolvedor :boom:
 
 - Estudo programação desde dezembro de 2021 e estou em busca de colocação no mercado
 
