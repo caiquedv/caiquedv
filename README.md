@@ -5,7 +5,7 @@
 
 - Meu nome é Caique, tenho 27 anos e sou desenvolvedor de Software :boom:
 
-- Estudo programação desde dezembro de 2021 e estou em busca de colocação no mercado
+- Estudo programação desde dezembro de 2021
 
 - Meus principais projetos estão disponíveis em meu [portfólio](https://caiquedv.github.io/portfolio-reactjs) :mag:
 
