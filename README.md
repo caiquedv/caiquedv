@@ -5,7 +5,7 @@
 
 - Sou paulistano, tenho 29 anos e curso Eng. da Computação. 🖥️
 
-- Estudo Desenvolvimento de Software desde 2022, com foco em Back End. ⚙️
+- Estudo Desenvolvimento Web desde 2022, com foco em Back End. ⚙️
 
 - Também possuo skills em Front End e os principais projetos estão disponíveis [aqui.](https://caiquedv.github.io/portfolio-reactjs) :mag:
 
