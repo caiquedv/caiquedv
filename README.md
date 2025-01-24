@@ -3,7 +3,7 @@
   Seja bem vindo ao meu perfil!
 </h1>
 
-- Sou paulistano, tenho 29 anos e curso Eng. da Computação. 🖥️
+- Sou paulistano, tenho 30 anos e curso Eng. da Computação. 🖥️
 
 - Codando since 2022 🚀
 
